@@ -4,3 +4,9 @@ html {
   font-family: "Open Sans", sans-serif;
   background-color: #eeeeee;
 }
+
+#hello {
+  background-color: #ffffff;
+  font-color: blue;
+  font-size: 16px;
+}
