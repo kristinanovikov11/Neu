@@ -13,13 +13,14 @@ html {
   font-size: 20px;
   font-style: bold;
   padding: 20px;
-  margin-top: 350px;
+  margin-top: 250px;
   margin-left: 50px;
   width: 450px;
   z-index: 100;
 }
 
 #kristina {
-  margin-top: -100px; 
+  margin-top: -300px; 
   margin-left: 180px;
+  z-index: 0;
 }
