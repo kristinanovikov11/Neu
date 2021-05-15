@@ -8,12 +8,12 @@ html {
 #hello {
   background-color: #ffffff;
   font-color: blue;
-  font-size: 16px;
+  font-size: 20px;
   font-style: bold;
   padding: 20px;
   width: 480px;
 }
 
 #kristina {
-  margin: 50px;
+  margin-left: 100px;
 }
