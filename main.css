@@ -10,7 +10,7 @@ html {
 #portrait { 
   margin-left: 180px;
   margin-top: 50px;
-  z-index: 0;
+  z-index: -1;
 }
 
 #hello {
