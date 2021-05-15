@@ -11,8 +11,7 @@ html {
 	font-size: 12px;
 	font-family: sans-serif;
 	background-color: #C7C0BC;
-	margin: -1%;
-	padding: 0.02% 0% 1.2% 90%;
+	height: 30px;
 }
 
 #contact li {
