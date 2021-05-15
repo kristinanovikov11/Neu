@@ -19,7 +19,11 @@ html {
   z-index: 100;
 }
 
-#kristina { 
+#portrait { 
   margin-left: 180px;
   z-index: 0;
+}
+
+#about {
+  
 }
