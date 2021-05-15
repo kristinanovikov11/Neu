@@ -13,7 +13,7 @@ html {
   z-index: -1;
 } */
 
-div {
+#portrait {
   background-image: url('kristina.jpg');
 }
 
