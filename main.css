@@ -13,18 +13,20 @@ html {
   font-size: 20px;
   font-style: bold;
   padding: 20px;
-  margin-top: -250px;
   margin-left: 50px;
+  margin-top: -250px;
   width: 450px;
   z-index: 100;
 }
 
 #portrait { 
   margin-left: 180px;
+  margin-top: 50px;
   z-index: 0;
 }
 
 #about {
   margin-left: 1000px;
+  margin-top: 50px;
   font-style: italic;
 }
