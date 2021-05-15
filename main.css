@@ -7,6 +7,12 @@ html {
   background-color: #eeeeee;
 }
 
+#portrait { 
+  margin-left: 180px;
+  margin-top: 50px;
+  z-index: 0;
+}
+
 #hello {
   background-color: #ffffff;
   font-color: blue;
@@ -14,19 +20,13 @@ html {
   font-style: bold;
   padding: 20px;
   margin-left: 50px;
-  margin-top: -450px;
+  margin-top: -550px;
   width: 450px;
   z-index: 100;
 }
 
-#portrait { 
-  margin-left: 180px;
-  margin-top: 50px;
-  z-index: 0;
-}
-
 #about {
   margin-left: 1000px;
-  margin-top: 50px;
+  margin-top: 200px;
   font-style: italic;
 }
