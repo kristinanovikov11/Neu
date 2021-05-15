@@ -15,7 +15,6 @@ html {
 
 #hello {
   background-color: #ffffff;
-  font-color: blue;
   font-size: 20px;
   font-style: bold;
   padding: 20px;
@@ -24,6 +23,18 @@ html {
   width: 450px;
   z-index: 100;
   position: relative;
+}
+
+#design {
+  font-color: #8FC1FF;
+}
+
+#illustrate {
+  font-color: #EA7D4B;
+}
+
+#mostOfTheTime {
+  font-style: italic;
 }
 
 #about {
