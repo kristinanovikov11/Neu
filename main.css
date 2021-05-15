@@ -7,15 +7,11 @@ html {
   background-color: #eeeeee;
 }
 
-/* #portrait { 
+#portrait { 
   margin-left: 180px;
   margin-top: 50px;
   z-index: -1;
-} */
-
-#portrait {
-  background-image: url('kristina.jpg');
-}
+} 
 
 #hello {
   background-color: #ffffff;
