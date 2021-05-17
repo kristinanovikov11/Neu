@@ -29,7 +29,7 @@ html {
 	list-style: none;
 	display: inline-block;
 	padding-right: 20px;
-	margin: 0% 0% 0% 90%;
+	margin: 0% 0% 0% auto;
 	display: inline;
 	float: right;
 	text-align: right;
@@ -39,7 +39,11 @@ html {
 	position: fixed;
 	list-style: none;
 	margin-left: 90%;
-	margin-top: 10%;
+	/*margin-top: 10%;*/
+	margin: 10% 0% 0% auto;
+	display: inline;
+	float: right;
+	text-align: right;
 }
 
 #contactMail li {
