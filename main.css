@@ -42,14 +42,15 @@ html {
 	font-weight: bold;
 }
 
-#hello :nth-child(2) {
+#hello :nth-child(3) {
 	color: #8d4646;
 	font-weight: bold;
 }
 
 #about {
 	margin-left: 1000px;
-	margin-top: 320px;
+	margin-top: 310px;
 	font-size: 14px;
 	color: #8d4646;
+	font-weight: bold;
 }
