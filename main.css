@@ -55,10 +55,6 @@ nav ul li a:hover:after {
 	text-decoration: none;
 }
 
-h1 {
-	color: #8d4646;
-}
-
 #contact {
 	position: fixed;
 	list-style: none;
@@ -79,6 +75,11 @@ h1 {
 #contactInsta li {
 	list-style: none;
 	z-index: 110;
+}
+
+h1 {
+	color: #8d4646;
+	margin-top: 20%;
 }
 
 #portrait { 
