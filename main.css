@@ -18,6 +18,8 @@ html {
 	color: #8d4646;
 	list-style: none;
 	display: inline-block;
+	align: right;
+	padding: 50px;
 }
 
 #contact {
