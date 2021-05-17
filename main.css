@@ -21,7 +21,7 @@ html {
 	color: #8d4646;
 	list-style: none;
 	display: inline-block;
-	padding-right: 30px;
+	padding-right: 40px;
 	margin: 0% 0% 0% auto;
 	display: inline;
 	float: right;
@@ -32,7 +32,7 @@ html {
 	position: fixed;
 	list-style: none;
 	margin-left: 90%;
-	margin-top: 10%;
+	margin-top: 20%;
 }
 
 #contactMail li {
