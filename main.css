@@ -55,6 +55,10 @@ nav ul li a:hover:after {
 	text-decoration: none;
 }
 
+h1 {
+	color: #8d4646;
+}
+
 #contact {
 	position: fixed;
 	list-style: none;
