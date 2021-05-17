@@ -15,12 +15,12 @@ html {
 	margin-top: -1%;
 }
 
-#nav ul {
-	float:right;
+/* #nav ul {
+	float: right;
 	margin: 0px 0px 0px auto;
 	display: inline;
 	text-align: right;
-}
+} */
 
 #navi li {
 	font-size: 20px;
@@ -29,7 +29,7 @@ html {
 	list-style: none;
 	display: inline-block;
 	padding-right: 20px;
-	float:right;
+	float: right;
 	margin: 0px 0px 0px auto;
 	display: inline;
 	text-align: right;
