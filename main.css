@@ -7,14 +7,11 @@ html {
   background-color: #eeeeee;
 }
 
-#sidebar {
+#topbar {
 	font-size: 12px;
 	font-family: sans-serif;
 	background-color: #8d4646;
-	padding-left: 90%;
 	margin-top: -1%;
-	padding-top: 0.1%;
-	pading-bottom: 0.1%;
 }
 
 #contact li {
