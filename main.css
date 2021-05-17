@@ -44,6 +44,7 @@ html {
 
 #hello :nth-child(2) {
 	color: #8d4646;
+	font-style: bold;
 }
 
 #about {
