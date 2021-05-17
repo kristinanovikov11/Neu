@@ -17,6 +17,9 @@ html {
 #contact li {
 	list-style: none;
 	margin-left: 92%;
+	position: fixed;
+	line-height: 2;
+	z-index: 110;
 }
 
 #portrait { 
