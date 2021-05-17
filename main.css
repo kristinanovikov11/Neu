@@ -117,12 +117,12 @@ h1 {
 #about {
 	background-color: #8d4646;
 	color: #ffffff;
-	margin-left: 900px;
+	margin-left: 60%;
 	margin-top: -50px;
 	padding: 70px;
 	font-size: 14px;
 	font-weight: bold;
 	line-height: 2;
-	width: 300px;
+	width: 250px;
 	z-index: 100;
 }
