@@ -20,6 +20,7 @@ html {
 	font-weight: bold;
 	color: #8d4646;
 	list-style: none;
+	text-decoration: none;
 	display: inline-block;
 	pading-left: 40px;
 	padding-right: 40px;
