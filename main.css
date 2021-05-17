@@ -16,7 +16,8 @@ html {
 }
 
 #nav ul {
-	margin-left: 70%;
+	float:right;
+	margin:0px 0px 0px auto;
 }
 
 #navi li {
