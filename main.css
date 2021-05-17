@@ -45,7 +45,7 @@ nav ul li a:after {
 	content: '.';
 	color: transparent;
 	background: #8d4646;
-	height: 5px;
+	height: 3px;
 	text-decoration: none;
 }
 
