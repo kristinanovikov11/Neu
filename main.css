@@ -13,6 +13,7 @@ html {
 	background-color: #8d4646;
 	padding-left: 90%;
 	margin-top: -1%;
+	padding-top: 1%;
 }
 
 #contact li {
@@ -54,4 +55,5 @@ html {
 	font-size: 14px;
 	color: #8d4646;
 	font-weight: bold;
+	line-height: 120%;
 }
