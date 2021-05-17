@@ -82,11 +82,11 @@ nav ul li a:hover:after {
 #aboutTitle {
 	color: #AD9696;
 	font-family: "Playfair Display", serif;
-	font-size: 36px;
+	font-size: 40px;
 	font-weight: bold;
 	margin-top: 25%;
 	margin-left: 5%;
-	position: relative;
+	position: absolute;
 }
 
 #portrait { 
