@@ -43,8 +43,8 @@ nav ul li a:after {
 	width: 0%;
 	content: '.';
 	color: transparent;
-	background: #aaa;
-	height: 1px;
+	background: #8d4646;
+	height: 5px;
 }
 
 nav ul li a:hover:after {
