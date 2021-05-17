@@ -4,7 +4,7 @@
 
 html {
   font-family: "Open Sans", sans-serif;
-  background-color: #FBFCFC;
+  background-color: #eeeeee;
 }
 
 #topbar {
@@ -84,7 +84,7 @@ nav ul li a:hover:after {
 } 
 
 #hello {
-	background-color: #ffffff;
+	background-color: #F9F4F4;
 	font-size: 20px;
 	font-style: bold;
 	padding: 20px;
