@@ -137,11 +137,21 @@ nav ul li a:hover:after {
 	font-style: italic;
 }
 
-workTitle {
+#workTitle {
 	color: #AD9696;
 	font-family: "Playfair Display", serif;
 	font-size: 40px;
 	margin-top: 50%;
+	margin-left: 5%;
+	position: absolute;
+}
+
+
+#contactTitle {
+	color: #AD9696;
+	font-family: "Playfair Display", serif;
+	font-size: 40px;
+	margin-top: 80%;
 	margin-left: 5%;
 	position: absolute;
 }
