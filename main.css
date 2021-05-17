@@ -14,10 +14,6 @@ html {
 	margin-top: -1%;
 }
 
-#contact li {
-	list-style: none;
-}
-
 #portrait { 
 	margin-left: 180px;
 	margin-top: 80px;
@@ -53,4 +49,8 @@ html {
 	color: #8d4646;
 	font-weight: bold;
 	line-height: 1.5;
+}
+
+#contact li {
+	list-style: none;
 }
