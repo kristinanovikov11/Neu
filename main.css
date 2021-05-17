@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@1,200&family=Playfair+Display:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap');
 
 html {
 	font-family: "Open Sans", sans-serif;
@@ -80,6 +81,7 @@ nav ul li a:hover:after {
 
 #aboutTitle {
 	color: #8d4646;
+	font-family: "Playfair Display", serif;
 	font-size: 26px;
 	font-weight: bold;
 	margin-top: 30%;
@@ -131,7 +133,7 @@ nav ul li a:hover:after {
 }
 
 #hello :nth-child(1) {
-	font-family: "Playfair Display";
+	font-family: "Playfair Display", serif;
 	font-weight: bold;
 	font-style: oblique;
 }
