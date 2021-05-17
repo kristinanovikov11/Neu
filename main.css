@@ -20,25 +20,26 @@ html {
 }
 
 #portrait { 
-  margin-left: 180px;
-  margin-top: 80px;
-  z-index: -1;
+	margin-left: 180px;
+	margin-top: 80px;
+	z-index: -1;
 } 
 
 #hello {
-  background-color: #ffffff;
-  font-size: 20px;
-  font-style: bold;
-  padding: 20px;
-  margin-left: 50px;
-  margin-top: -530px;
-  width: 400px;
-  z-index: 100;
-  position: relative;
+	background-color: #ffffff;
+	font-size: 20px;
+	font-style: bold;
+	padding: 20px;
+	margin-left: 50px;
+	margin-top: -530px;
+	width: 400px;
+	z-index: 100;
+	position: relative;
 }
 
 #about {
-  margin-left: 1000px;
-  margin-top: 300px;
-  font-style: italic;
+	margin-left: 1000px;
+	margin-top: 300px;
+	font-style: italic;
+	font-color: #8d4646;
 }
