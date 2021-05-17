@@ -37,6 +37,14 @@ html {
 	position: relative;
 }
 
+#hello :nth-child(1) {
+	color: #8d4646;
+}
+
+#hello :nth-child(3) {
+	color: #8d4646;
+}
+
 #about {
 	margin-left: 1000px;
 	margin-top: 300px;
