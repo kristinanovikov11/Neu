@@ -32,6 +32,7 @@ html {
 
 nav ul li a {
 	position: relative;
+	text-decoration: none;
 }
 
 nav ul li a:after {
@@ -45,10 +46,12 @@ nav ul li a:after {
 	color: transparent;
 	background: #8d4646;
 	height: 5px;
+	text-decoration: none;
 }
 
 nav ul li a:hover:after {
 	width: 100%;
+	text-decoration: none;
 }
 
 #contact {
