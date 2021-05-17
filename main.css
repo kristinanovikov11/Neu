@@ -116,19 +116,19 @@ h1 {
 #about {
 	background-color: #AD9696;
 	color: #ffffff;
-	margin-left: 50%;
-	margin-top: 400px;
+	margin-left: 45%;
+	margin-top: 300px;
 	padding: 70px;
 	font-size: 14px;
 	font-weight: bold;
 	line-height: 2;
-	width: 500px;
+	width: 470px;
 	z-index: 100;
 	position: relative;
 }
 
 #hello :nth-child(1) {
-	font-family: Playfair Display;
+	font-family: "Playfair Display";
 	font-weight: bold;
 	font-style: oblique;
 }
