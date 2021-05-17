@@ -62,7 +62,7 @@ nav ul li a:hover:after {
 	list-style: none;
 	margin-left: 90%;
 	margin-top: 30%;
-	position: absolute;
+	position: relative;
 }
 
 #contactMail li {
