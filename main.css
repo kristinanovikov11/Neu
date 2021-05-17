@@ -14,8 +14,27 @@ html {
 	margin-top: -1%;
 }
 
-#contact li {
+#contactMail li {
 	list-style: none;
+	margin-top: 40%;
+	margin-left: 92%;
+	position: fixed;
+	line-height: 2;
+	z-index: 110;
+}
+
+#contactGit li {
+	list-style: none;
+	margin-top: 50;
+	margin-left: 92%;
+	position: fixed;
+	line-height: 2;
+	z-index: 110;
+}
+
+#contactInsta li {
+	list-style: none;
+	margin-top: 60%;
 	margin-left: 92%;
 	position: fixed;
 	line-height: 2;
