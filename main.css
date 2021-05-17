@@ -158,8 +158,8 @@ nav ul li a:hover:after {
 
 .box2 {
 	position: relative;
-	width: 250px;
-	height: 280px;
+	width: 400px;
+	height: 350px;
 	border: 5px solid #e6e6e6;
 	margin: 0.5% 2% 2% 2.7%;
 	display: inline-block;
@@ -168,8 +168,8 @@ nav ul li a:hover:after {
 .image {
 	opacity: 1;
 	display: block;
-	width: 280px;
-	height: 250px;
+	width: 400px;
+	height: 350px;
 	transition: .5s ease;
 	backface-visibility: hidden;
 }
@@ -177,8 +177,8 @@ nav ul li a:hover:after {
 .image2 {
 	opacity: 1;
 	display: block;
-	width: 250px;
-	height: 280px;
+	width: 400px;
+	height: 350px;
 	transition: .5s ease;
 	backface-visibility: hidden;
 }
@@ -187,7 +187,7 @@ nav ul li a:hover:after {
 	transition: .5s ease;
 	opacity: 0;
 	position: absolute;
-	width: 280px;
+	width: 400px;
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%, -50%);
@@ -198,7 +198,7 @@ nav ul li a:hover:after {
 	transition: .5s ease;
 	opacity: 0;
 	position: absolute;
-	width: 250px;
+	width: 400px;
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%, -50%);
