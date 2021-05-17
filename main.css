@@ -83,7 +83,7 @@ nav ul li a:hover:after {
 	color: #AD9696;
 	font-family: "Playfair Display", serif;
 	font-size: 40px;
-	margin-top: 10%;
+	margin-top: 5%;
 	margin-left: 5%;
 	position: absolute;
 }
@@ -121,7 +121,7 @@ nav ul li a:hover:after {
 	background-color: #AD9696;
 	color: #ffffff;
 	margin-left: 50%;
-	margin-top: 40%;
+	margin-top: 35%;
 	padding: 70px;
 	font-size: 14px;
 	font-weight: bold;
