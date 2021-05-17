@@ -13,7 +13,7 @@ html {
 	list-style: none;
 }
 
-#navi {
+#navi li {
 	font-size: 20px;
 	color: #8d4646;
 	list-style: none;
