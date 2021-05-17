@@ -21,7 +21,7 @@ html {
 	color: #8d4646;
 	list-style: none;
 	display: inline-block;
-	align: right;
+	margin-left: 50%;
 	padding-right: 20px;
 }
 
