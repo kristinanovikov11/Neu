@@ -62,7 +62,6 @@ nav ul li a:hover:after {
 	list-style: none;
 	margin-left: 90%;
 	margin-top: 30%;
-	position: relative;
 }
 
 #contactMail li {
@@ -85,7 +84,7 @@ nav ul li a:hover:after {
 	font-family: "Playfair Display", serif;
 	font-size: 36px;
 	font-weight: bold;
-	margin-top: 40%;
+	margin-top: 15%;
 	margin-left: 5%;
 	position: relative;
 }
