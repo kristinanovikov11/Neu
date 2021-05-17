@@ -86,7 +86,7 @@ h1 {
 
 #portrait { 
 	margin-left: 5%;
-	margin-top: -600px;
+	margin-top: -500px;
 	z-index: -1;
 } 
 
@@ -124,7 +124,7 @@ h1 {
 	font-size: 14px;
 	font-weight: bold;
 	line-height: 2;
-	width: 400px;
+	width: 500px;
 	z-index: 100;
 	position: relative;
 }
