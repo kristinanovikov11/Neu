@@ -16,7 +16,7 @@ html {
 
 #contact li {
 	list-style: none;
-	position: fixed;
+	margin-left: 90%;
 }
 
 #portrait { 
