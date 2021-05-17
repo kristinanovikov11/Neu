@@ -80,11 +80,11 @@ nav ul li a:hover:after {
 h1 {
 	color: #8d4646;
 	margin-top: 10%;
-	margin-left: 5%;
+	margin-left: 7.5%;
 }
 
 #portrait { 
-	margin-left: 5%;
+	margin-left: 7.5%;
 	margin-top: -800px;
 	z-index: -1;
 } 
