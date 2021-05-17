@@ -83,7 +83,7 @@ nav ul li a:hover:after {
 #aboutTitle {
 	color: #8d4646;
 	font-family: "Playfair Display", serif;
-	font-size: 26px;
+	font-size: 36px;
 	font-weight: bold;
 	margin-top: 30%;
 	margin-left: 5%;
@@ -133,8 +133,7 @@ nav ul li a:hover:after {
 	position: relative;
 }
 
-#hello :nth-child(1) {
+#about :nth-child(1) {
 	font-family: "Playfair Display", serif;
 	font-weight: bold;
-	font-style: oblique;
 }
