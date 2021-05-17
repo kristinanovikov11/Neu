@@ -19,6 +19,7 @@ html {
 
 #contact {
 	position: fixed;
+	list-style: none;
 	margin-left: 90%;
 	margin-top: 50%;
 }
