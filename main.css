@@ -33,6 +33,7 @@ html {
 nav ul li a {
 	position: relative;
 	text-decoration: none;
+	color: #000000;
 }
 
 nav ul li a:after {
