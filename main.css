@@ -18,6 +18,7 @@ html {
 	font-family: sans-serif;
 	color: #8d4646;
 	display: inline-block;
+	list-style: none;
 }
 
 #contact {
