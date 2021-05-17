@@ -84,6 +84,7 @@ nav ul li a:hover:after {
 	font-weight: bold;
 	margin-top: 30%;
 	margin-left: 5%;
+	position:relative;
 }
 
 #portrait { 
