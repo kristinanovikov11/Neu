@@ -123,6 +123,6 @@ h1 {
 	font-size: 14px;
 	font-weight: bold;
 	line-height: 2;
-	width: 400px;
+	width: auto;
 	z-index: 100;
 }
