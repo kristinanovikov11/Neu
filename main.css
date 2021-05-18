@@ -125,6 +125,9 @@ nav ul li a:hover:after {
 	font-weight: bold;
 	margin-left: 15%;
 	margin-top: -10%;
+	color: #ffffff;
+	position: absolute;
+	z-index: 120;
 }
 /*#hello {
 	background-color: #8d4646;
