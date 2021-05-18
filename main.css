@@ -88,6 +88,11 @@ nav ul li a:hover:after {
 	position: absolute;
 }
 
+#punkte {
+	margin-left: 50%;
+	margin-top: 10%;
+}
+
 #portrait { 
 	margin-left: 30%;
 	margin-top: 16%;
