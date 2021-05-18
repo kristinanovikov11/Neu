@@ -89,10 +89,17 @@ nav ul li a:hover:after {
 }
 
 #portrait { 
-	margin-left: 5%;
+	margin-left: 20%;
 	margin-top: -45%;
 	z-index: -1;
 } 
+
+#colorbox {
+	background-color: #F2EDED;
+	width: 600px;
+	hieght: 950px;
+	margin-left: 5%;
+}
 
 /*#hello {
 	background-color: #8d4646;
