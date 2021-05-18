@@ -99,6 +99,7 @@ nav ul li a:hover:after {
 	width: 600px;
 	hieght: 950px;
 	margin-left: 5%;
+	margi-top: -30%;
 }
 
 /*#hello {
