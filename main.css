@@ -14,6 +14,10 @@ html {
 	background-color: #ffffff;
 }
 
+body {
+	margin-top: 0%;
+}
+
 #navi li {
 	font-size: 24px;
 	font-weight: bold;
@@ -92,7 +96,7 @@ nav ul li a:hover:after {
 
 #about2 {
 	width: 97.5%;
-	margin-top: -15%;
+	margin-top: -12%;
 }
 
 /* #punkte {
