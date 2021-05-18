@@ -91,6 +91,8 @@ nav ul li a:hover:after {
 #punkte {
 	margin-left: 50%;
 	margin-top: 10%;
+	width: 20%;
+	height: 20%;
 }
 
 #portrait { 
