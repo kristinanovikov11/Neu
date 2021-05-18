@@ -97,9 +97,10 @@ nav ul li a:hover:after {
 #colorbox {
 	background-color: #8d4646;
 	color: #8d4646;
+	width: 950px;
 	margin-left: 5%;
-	margin-top: -43.5%;
-	padding: 22% 5% 22% 5%;
+	margin-top: -42%;
+	padding: 23% 5% 24% 5%;
 }
 
 /*#hello {
