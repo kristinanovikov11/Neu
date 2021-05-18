@@ -89,7 +89,7 @@ nav ul li a:hover:after {
 }
 
 #punkte {
-	margin-left: 81%;
+	margin-left: 79%;
 	margin-top: 8%;
 	width: 2.5%;
 	height: 2.5%;
@@ -97,7 +97,7 @@ nav ul li a:hover:after {
 }
 
 #portrait { 
-	margin-left: 30%;
+	margin-left: 28%;
 	margin-top: 1%;
 	z-index: 100;
 	position: absolute;
@@ -107,7 +107,7 @@ nav ul li a:hover:after {
 	background-color: #8d4646;
 	color: #8d4646;
 	width: 800px;
-	margin-left: 12%;
+	margin-left: 10%;
 	margin-top: -2.5%;
 	padding: 23% 5% 24% 5%;
 	position: relative;
