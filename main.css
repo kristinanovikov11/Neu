@@ -7,7 +7,6 @@
 html {
 	font-family: "Open Sans", sans-serif;
 	background-color: #ffffff;
-	margin-top: 0px;
 }
 
 #topbar {
@@ -15,6 +14,7 @@ html {
 	color: #8d4646;
 	list-style: none;
 	height: 1%;
+	margin: 0px 0px 0px 0px;
 }
 
 #navi li {
