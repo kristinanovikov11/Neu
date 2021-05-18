@@ -114,6 +114,9 @@ nav ul li a:hover:after {
 	z-index: -1;
 }
 
+#hi {
+	font-family: "Autography";
+}
 /*#hello {
 	background-color: #8d4646;
 	color: #ffffff;
