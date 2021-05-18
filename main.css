@@ -96,10 +96,11 @@ nav ul li a:hover:after {
 
 #colorbox {
 	background-color: #E7DFDF;
+	color: #E7DFDF;
 	width: 600px;
 	hieght: 950px;
 	margin-left: 5%;
-	margin-top: -50%;
+	margin-top: -40%;
 	padding: 40% 5% 10% 5%;
 }
 
