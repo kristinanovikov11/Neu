@@ -118,11 +118,12 @@ nav ul li a:hover:after {
 	margin-top: -2%;
 }
 
-/* #contactTitle {
-	color: #AD9696;
+
+#contactTitle {
+	color: #ffffff;
 	font-family: "Playfair Display", serif;
 	font-size: 40px;
-	margin-top: 20%;
-	margin-left: 5%;
+	margin-top: 5%;
+	margin-left: 0%;
 	position: absolute;
-} */
+}
