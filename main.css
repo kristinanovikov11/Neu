@@ -93,11 +93,12 @@ nav ul li a:hover:after {
 	margin-top: 8%;
 	width: 2.5%;
 	height: 2.5%;
+	position: relative;
 }
 
 #portrait { 
 	margin-left: 30%;
-	margin-top: 10%;
+	margin-top: 5%;
 	z-index: 100;
 	position: absolute;
 } 
