@@ -113,7 +113,7 @@ nav ul li a:hover:after {
 	color: #8d4646;
 	width: 800px;
 	margin-left: 10.5%;
-	margin-top: -2.9%;
+	margin-top: -3%;
 	padding: 23% 5% 24% 5%;
 	position: relative;
 	z-index: -1;
@@ -123,6 +123,8 @@ nav ul li a:hover:after {
 	font-family: "Autography";
 	font-size: 44px;
 	font-weight: bold;
+	margin-left: 15%;
+	margin-top: -10%;
 }
 /*#hello {
 	background-color: #8d4646;
