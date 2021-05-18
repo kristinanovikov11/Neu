@@ -84,12 +84,12 @@ nav ul li a:hover:after {
 	font-family: "Playfair Display", serif;
 	font-size: 40px;
 	margin-top: 5%;
-	margin-left: 5%;
+	margin-left: 0%;
 	position: absolute;
 }
 
 #punkte {
-	margin-left: 79%;
+	margin-left: 79.5%;
 	margin-top: 8%;
 	width: 2.5%;
 	height: 2.5%;
@@ -97,7 +97,7 @@ nav ul li a:hover:after {
 }
 
 #portrait { 
-	margin-left: 28%;
+	margin-left: 28.5%;
 	margin-top: 1%;
 	z-index: 100;
 	position: absolute;
@@ -107,7 +107,7 @@ nav ul li a:hover:after {
 	background-color: #8d4646;
 	color: #8d4646;
 	width: 800px;
-	margin-left: 10%;
+	margin-left: 10.5%;
 	margin-top: -2.75%;
 	padding: 23% 5% 24% 5%;
 	position: relative;
