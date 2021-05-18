@@ -181,6 +181,14 @@ nav ul li a:hover:after {
 	position: absolute;
 }
 
+#work1 {
+	width: 80%;
+}
+
+#work2 {
+	width: 80%;
+}
+
 /* #contactTitle {
 	color: #AD9696;
 	font-family: "Playfair Display", serif;
