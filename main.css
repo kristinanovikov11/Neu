@@ -85,7 +85,15 @@ nav ul li a:hover:after {
 	position: absolute;
 }
 
-#punkte {
+#about1 {
+	width: 95%;
+}
+
+#about2 {
+	width: 95%;
+}
+
+/* #punkte {
 	margin-left: 79.5%;
 	margin-top: 8%;
 	width: 2.5%;
@@ -120,7 +128,8 @@ nav ul li a:hover:after {
 	color: #ffffff;
 	position: absolute;
 	z-index: 120;
-}
+} */
+
 /*#hello {
 	background-color: #8d4646;
 	color: #ffffff;
