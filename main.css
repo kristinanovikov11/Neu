@@ -87,11 +87,12 @@ nav ul li a:hover:after {
 
 #about1 {
 	width: 97.5%;
+	margin-top: 5%;
 }
 
 #about2 {
 	width: 97.5%;
-	margin-top: -10%;
+	margin-top: -15%;
 }
 
 /* #punkte {
@@ -185,12 +186,12 @@ nav ul li a:hover:after {
 
 #work1 {
 	width: 97.5%;
-	margin-top: 20%;
+	margin-top: 15%;
 }
 
 #work2 {
 	width: 97.5%;
-	margin-top: -5%;
+	margin-top: -2%;
 }
 
 /* #contactTitle {
