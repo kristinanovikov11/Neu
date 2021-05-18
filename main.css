@@ -121,6 +121,8 @@ nav ul li a:hover:after {
 
 #hi {
 	font-family: "Autography";
+	font-size: 24px;
+	font-weight: bold;
 }
 /*#hello {
 	background-color: #8d4646;
