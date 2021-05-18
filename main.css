@@ -99,86 +99,6 @@ nav ul li a:hover:after {
 	margin-top: -12%;
 }
 
-/* #punkte {
-	margin-left: 79.5%;
-	margin-top: 8%;
-	width: 2.5%;
-	height: 2.5%;
-	position: relative;
-}
-
-#portrait { 
-	margin-left: 28.5%;
-	margin-top: 1%;
-	z-index: 100;
-	position: absolute;
-} 
-
-#colorbox {
-	background-color: #8d4646;
-	color: #8d4646;
-	width: 800px;
-	margin-left: 10.5%;
-	margin-top: -3%;
-	padding: 23% 5% 24% 5%;
-	position: relative;
-	z-index: -1;
-}
-
-#hi {
-	font-family: "Autography";
-	font-size: 52px;
-	font-weight: bold;
-	margin-left: 22%;
-	margin-top: -13%;
-	color: #ffffff;
-	position: absolute;
-	z-index: 120;
-} */
-
-/*#hello {
-	background-color: #8d4646;
-	color: #ffffff;
-	font-size: 20px;
-	font-style: bold;
-	padding: 20px;
-	margin-left: 50px;
-	margin-top: -530px;
-	width: 380px;
-	z-index: 100;
-	position: relative;
-}
-
-#hello :nth-child(1) {
-	font-weight: bold;
-	font-style: oblique;
-}
-
-#hello :nth-child(4) {
-	font-weight: bold;
-	font-style: oblique;
-} */
-
-/* #about {
-	background-color: #AD9696;
-	color: #ffffff;
-	margin-left: 50%;
-	margin-top: 35%;
-	padding: 70px;
-	font-size: 14px;
-	font-weight: bold;
-	line-height: 2;
-	width: 480px;
-	z-index: 100;
-	position: relative;
-}
-
-#about :nth-child(1) {
-	font-family: "Playfair Display", serif;
-	font-size: 20px;
-	font-style: italic;
-} */
-
 #workTitle {
 	color: #ffffff;
 	font-family: "Playfair Display", serif;
@@ -190,7 +110,7 @@ nav ul li a:hover:after {
 
 #work1 {
 	width: 97.5%;
-	margin-top: 15%;
+	margin-top: 10%;
 }
 
 #work2 {
