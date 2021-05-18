@@ -99,6 +99,7 @@ nav ul li a:hover:after {
 	margin-left: 30%;
 	margin-top: 20%;
 	z-index: -1;
+	position: absolute;
 } 
 
 #colorbox {
