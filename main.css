@@ -90,7 +90,7 @@ nav ul li a:hover:after {
 
 #portrait { 
 	margin-left: 20%;
-	margin-top: 10%;
+	margin-top: 15%;
 	z-index: -1;
 } 
 
@@ -100,7 +100,7 @@ nav ul li a:hover:after {
 	width: 600px;
 	hieght: 950px;
 	margin-left: 5%;
-	margin-top: -45%;
+	margin-top: -50%;
 	padding: 40% 5% 10% 5%;
 }
 
