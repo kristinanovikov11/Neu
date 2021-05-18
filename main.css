@@ -127,3 +127,8 @@ nav ul li a:hover:after {
 	margin-left: 0%;
 	position: absolute;
 }
+
+#contact {
+	width: 97.5%;
+	margin-top: -12%;
+}
