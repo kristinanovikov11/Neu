@@ -14,14 +14,6 @@ html {
 	background-color: #ffffff;
 }
 
-/* #topbar {
-	background-color: #8d4646;
-	color: #8d4646;
-	list-style: none;
-	height: 1%;
-	margin: -1%;
-} */
-
 #navi li {
 	font-size: 24px;
 	font-weight: bold;
@@ -172,12 +164,12 @@ nav ul li a:hover:after {
 	font-style: italic;
 }
 
-#workTitle {
-	color: #AD9696;
+#worktTitle {
+	color: #ffffff;
 	font-family: "Playfair Display", serif;
 	font-size: 40px;
-	margin-top: 10%;
-	margin-left: 5%;
+	margin-top: 5%;
+	margin-left: 0%;
 	position: absolute;
 }
 
